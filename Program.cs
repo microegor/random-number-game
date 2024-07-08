@@ -14,7 +14,7 @@
 
             int randomNumber = GenerateRandomNumber(random, start, end);
 
-            Console.WriteLine($"Случайное число от {start} до {end}: {randomNumber}");
+            // Console.WriteLine($"Случайное число от {start} до {end}: {randomNumber}");
             Console.WriteLine("я загадал число, попробуйте его отгадать.");
             while (true)
             {
